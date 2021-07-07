@@ -2,7 +2,7 @@
   <img src="/images/twitter-logo.png" alt="twitter logo" width="20" height="20"/>
 </a> 
 
- <a href="www.linkedin.com/in/shubhamsharma585/" target="_blank">
+ <a href="https://learn.masaischool.com/" target="_blank">
   <img src="/images/linkedin-logo.svg" alt="linkedin logo" width="20" height="20"/>
 </a>
 <img src="/images/ezgif.com-video-to-gif.gif" alt="coding gif"/>
