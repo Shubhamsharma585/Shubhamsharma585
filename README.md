@@ -8,7 +8,7 @@
 <img src="/images/ezgif.com-video-to-gif.gif" alt="coding gif"/>
 
 ## About me
-- 😄 I'm a 24 y.o. <b>B.Tech (ME)</b> from MJPRU, Bareilly. 
+- 😄 I'm  <b> (ME)</b> from y. 
 - 🌱 I’m currently learning about <i>Full Stack Web Development</i>.
 - 💬 Let's [chat](mailto:shubhamsharma585@gmail.com)!
 
