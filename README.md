@@ -8,7 +8,9 @@
 <img src="/images/ezgif.com-video-to-gif.gif" alt="coding gif"/>
 
 ## About me
-- 😄 I'm  <b> (ME)</b> from y. 
+- 😄 I'm a NITian <b>M.Tech</b> from NIT, Warangal. 
+- 🎖️ <b>GATE</b> Qualified. 
+- 💻 Worked in<b>T.I.M.E, Banglore</b>. 
 - 🌱 I’m currently learning about <i>Full Stack Web Development</i>.
 - 💬 Let's [chat](mailto:shubhamsharma585@gmail.com)!
 
