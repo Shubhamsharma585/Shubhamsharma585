@@ -8,6 +8,7 @@
 <img src="/images/ezgif.com-video-to-gif.gif" alt="coding gif"/>
 
 ## About me
+- 🏳️‍🌈 Learning <b>Full Stack Development</b> at Masai School, Banglore. 
 - 😄 I'm a NITian <b>M.Tech</b> from NIT, Warangal. 
 - 🎖️ <b>GATE</b> Qualified. 
 - 💻 Worked in<b>T.I.M.E, Banglore</b>. 
