@@ -27,13 +27,10 @@
 </p>
 
 <p align='center'>
-    <img height="60" src="https://www.flaticon.com/svg/static/icons/svg/1216/1216733.svg">&nbsp;&nbsp;
-    <img height="60" src="https://www.flaticon.com/svg/static/icons/svg/732/732190.svg">&nbsp;&nbsp;
-    <img height="60" src="https://www.flaticon.com/svg/static/icons/svg/541/541509.svg">&nbsp;&nbsp;
-    <img height="60" src="https://www.flaticon.com/svg/static/icons/svg/919/919851.svg">&nbsp;&nbsp;
-    <img height="60" src="https://miro.medium.com/max/2800/0*U2DmhXYumRyXH6X1.png">&nbsp;&nbsp;
-    <img height="60" src="https://n7.nextpng.com/sticker-png/925/447/sticker-png-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo-web-application.png">&nbsp;&nbsp;
-    <img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png">&nbsp;&nbsp;
+    <img height="60" src="https://github.com/lXSPandora/vscode-styled-components-snippets/raw/master/images/styled-components.png">&nbsp;&nbsp;
+    <img height="60" src="">&nbsp;&nbsp;
+    <img height="60" src="">&nbsp;&nbsp;
+    <img height="60" src="">&nbsp;&nbsp;
 </p>
 
 ### :white_medium_small_square: GitHub Stats
