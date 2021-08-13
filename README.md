@@ -7,7 +7,7 @@
   <img src="/images/linkedin-logo.svg" alt="linkedin logo" width="20" height="20"/>
 </a>
 
-[<img src="/images/ezgif.com-video-to-gif.gif" alt="coding gif"/>](url)
+
 
 ## About Me
 I am Shubham Sharma from Rajasthan, India. I am a technology enthusiast, competent, well-focused fullstack developer👨‍💻. I am passionate about building fully functional web applications.
