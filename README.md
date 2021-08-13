@@ -39,7 +39,7 @@ When I am not coding, I love listening music, watching movies and plyaing chess.
 ## GitHub Stats
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=shubhamsharma585&show_icons=true&theme=radical" height="260px" width="66.75%"/> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamsharma585&theme=tokyonight" height="255px" width="33.25%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamsharma585&theme=tokyonight" height="255px" width="30.25%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubhamsharma585&theme=highcontrast" alt="Shubhamsharma585" />
 </div>
 <!--
