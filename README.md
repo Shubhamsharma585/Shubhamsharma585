@@ -21,7 +21,6 @@ When I am not coding, I love listening music, watching movies and plyaing chess.
 - 🎖️ <b>GATE</b> Qualified. 
 - 💻 Worked in<b>T.I.M.E, Banglore</b>. 
 - 💬 Let's [chat](mailto:shubhamsharma585@gmail.com)!
-- 
 
 ## Languages & Tech
 
