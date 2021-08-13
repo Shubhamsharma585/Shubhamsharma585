@@ -7,12 +7,20 @@
 </a>
 <img src="/images/ezgif.com-video-to-gif.gif" alt="coding gif"/>
 
-## About me
+## Head Lines
 - 🏳️‍🌈 Currently Learning <b>Full Stack Development</b> at Masai School, Banglore. 
 - 😄 A NITian from NIT, Warangal. 
 - 🎖️ <b>GATE</b> Qualified. 
 - 💻 Worked in<b>T.I.M.E, Banglore</b>. 
 - 💬 Let's [chat](mailto:shubhamsharma585@gmail.com)!
+
+## About Me
+I am Shubham Sharma from Rajasthan, India. I am a technology enthusiast, competent, well-focused fullstack developer👨‍💻. I am passionate about building fully functional web applications.
+
+I am skilled in HTML, CSS, Javascript, Typescript, ReactJS, Redux, React Router, Node, Mongodb, MySQL, Express. I am good in data structure and algorithms.
+
+When I am not coding, I love listening music, watching movies and plyaing chess.
+
 
 ## Languages & Tech
 
