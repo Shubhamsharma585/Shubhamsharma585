@@ -36,11 +36,11 @@ When I am not coding, I love listening music, watching movies and plyaing chess.
 
 
 
-### :white_medium_small_square: GitHub Stats
+## GitHub Stats
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=shubhamsharma585&show_icons=true&theme=radical" height="260px" width="66.75%"/> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamsharma585&theme=tokyonight" height="255px" width="33.25%"/>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shubhamsharma585&theme=highcontrast" alt="Shubhamsharma585" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubhamsharma585&theme=highcontrast" alt="Shubhamsharma585" />
 </div>
 <!--
 **soumitha18/soumitha18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
