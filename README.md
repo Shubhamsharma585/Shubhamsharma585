@@ -1,11 +1,13 @@
-### Hi there :wave:, I'm Shubham Sharma :india:, an Aspiring Full Stack Developer <a href="https://twitter.com/" target="_blank">
+### Hi there :wave:, I'm Shubham Sharma :india:, an Aspiring Full Stack Developer 
+<a href="https://twitter.com/" target="_blank">
   <img src="/images/twitter-logo.png" alt="twitter logo" width="20" height="20"/>
 </a> 
 
  <a href="https://www.linkedin.com/in/shubhamsharma585/" target="_blank">
   <img src="/images/linkedin-logo.svg" alt="linkedin logo" width="20" height="20"/>
 </a>
-<img src="/images/ezgif.com-video-to-gif.gif" alt="coding gif"/>
+
+[<img src="/images/ezgif.com-video-to-gif.gif" alt="coding gif"/>](url)
 
 ## About Me
 I am Shubham Sharma from Rajasthan, India. I am a technology enthusiast, competent, well-focused fullstack developer👨‍💻. I am passionate about building fully functional web applications.
