@@ -8,7 +8,7 @@ When I am not coding, I love listening music, watching movies and plyaing chess.
 
 
 ## Head Lines
-- 🏳️‍🌈 Currently Learning <b>Full Stack Development</b> at Masai School, Banglore. 
+- 🏳️‍🌈 Learned <b>Full Stack Development</b> at Masai School, Banglore. 
 - 😄 A NITian from NIT, Warangal. 
 - 🎖️ <b>GATE</b> Qualified. 
 - 💻 Worked in<b>T.I.M.E, Banglore</b>. 
