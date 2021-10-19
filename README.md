@@ -2,7 +2,7 @@
 
 I am Shubham Sharma from Rajasthan, India. I am a technology enthusiast, competent, well-focused fullstack developer👨‍💻. I am passionate about building fully functional web applications.
 
-I am skilled in HTML, CSS, Javascript, Typescript, ReactJS, Redux, React Router, Node, Mongodb, MySQL, Express. I am good in data structure and algorithms.
+I am skilled in HTML, CSS, Javascript, Typescript, ReactJS, React Query, Redux, React Router, Node, Mongodb, MySQL, Express. I am good in data structure and algorithms.
 
 When I am not coding, I love listening music, watching movies and plyaing chess.
 
