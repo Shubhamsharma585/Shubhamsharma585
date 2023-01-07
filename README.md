@@ -1,17 +1,17 @@
 ### Hi there :wave:, 
 
-I am Shubham Sharma from Rajasthan, India. I am a technology enthusiast, competent, well-focused fullstack developer👨‍💻. I am passionate about building fully functional web applications.
+I am Shubham Sharma and i am a technology enthusiast, competent, well-focused fullstack developer👨‍💻. I am passionate about building fully functional web applications.
 
-I am skilled in HTML, CSS, Javascript, Typescript, ReactJS, React Query, Redux, React Router, Node, Mongodb, MySQL, Express. I am good in data structure and algorithms.
+I am skilled in Javascript, Typescript, ReactJS, React Query, Redux, React Router, Node, Mongodb, MySQL, Express, HTML and CSS. I am good in data structure and algorithms.
 
 When I am not coding, I love listening music, watching movies and plyaing chess.
 
 
 ## Head Lines
-- 🏳️‍🌈 Learned <b>Full Stack Development</b> at Masai School, Banglore. 
-- 😄 A NITian from NIT, Warangal. 
 - 🎖️ <b>GATE</b> Qualified. 
+- 😄 A NITian from NIT, Warangal. 
 - 💻 Worked in<b>T.I.M.E, Banglore</b>. 
+- 🏳️‍🌈 <b>Full Stack Development</b> certified from Masai School, Banglore. 
 - 💬 Let's [chat](mailto:shubhamsharma585@gmail.com)!
 
 ## Languages & Tech
