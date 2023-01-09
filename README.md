@@ -16,7 +16,6 @@ When I am not coding, I love listening music, watching movies and plyaing chess.
 ## Languages & Tech
 
 <p align='center'>
-    <img height="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg">&nbsp;&nbsp;
     <img height="60" src="https://www.flaticon.com/svg/static/icons/svg/732/732190.svg">&nbsp;&nbsp;
     <img height="60" src="https://www.flaticon.com/svg/static/icons/svg/541/541509.svg">&nbsp;&nbsp;
     <img height="60" src="https://www.flaticon.com/svg/static/icons/svg/919/919851.svg">&nbsp;&nbsp;
