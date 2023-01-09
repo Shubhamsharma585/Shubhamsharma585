@@ -7,22 +7,14 @@ When I am not coding, I love listening music, watching movies and plyaing chess.
 
 
 ## Head Lines
-
-- 🎖️ <b>GATE</b> Qualified. 
-- 😄 A NITian from NIT, Warangal. 
-- 💻 Worked in<b>T.I.M.E, Banglore</b>. 
-- 🏳️‍🌈 <b>Full Stack Development</b> certified from Masai School, Banglore. 
-- 💬 Let's [chat](mailto:shubhamsharma585@gmail.com)!
-
-
 <table>
   <tr>
     <td>
-- 🎖️ <b>GATE</b> Qualified. 
-- 😄 A NITian from NIT, Warangal. 
-- 💻 Worked in<b>T.I.M.E, Banglore</b>. 
-- 🏳️‍🌈 <b>Full Stack Development</b> certified from Masai School, Banglore. 
-- 💬 Let's [chat](mailto:shubhamsharma585@gmail.com)!
+• 🎖️ <b>GATE</b> Qualified. <br>
+• 😄 A NITian from NIT, Warangal. <br>
+• 💻 Worked in<b>T.I.M.E, Banglore</b>. <br>
+• 🏳️‍🌈 <b>Full Stack Development</b> certified from Masai School, Banglore. <br>
+• 💬 Let's chat mailto:shubhamsharma585@gmail.com
     </td>
        <td>
  <img src="https://media.giphy.com/media/xUPGcKwZ7YGAPFCrLC/giphy.gif" alt="example-gif" width="300" height="200">
@@ -48,7 +40,7 @@ When I am not coding, I love listening music, watching movies and plyaing chess.
 </p>
 
 ## Let's Connect
-
+- 💬 [Chat Now](mailto:shubhamsharma585@gmail.com)!
 <p align='center'>
    <a href="www.linkedin.com/in/shubhamsharma585" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/Shubhamsharma585" height="30" width="40" /></a>
