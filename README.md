@@ -16,12 +16,12 @@ When I am not coding, I love listening music, watching movies and plyaing chess.
 ## Languages & Tech
 
 <p align='center'>
-    <img height="60" src="https://www.flaticon.com/svg/static/icons/svg/732/732190.svg">&nbsp;&nbsp;
-    <img height="60" src="https://www.flaticon.com/svg/static/icons/svg/541/541509.svg">&nbsp;&nbsp;
-    <img height="60" src="https://www.flaticon.com/svg/static/icons/svg/919/919851.svg">&nbsp;&nbsp;
-    ![React logo](https://reactjs.org/logo-og.png)
+    <img height="60" src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Javascript_Logo.png">&nbsp;&nbsp;
+    <img height="60" src="https://cdn.iconscout.com/icon/free/png-256/typescript-3629713-3030764.png">&nbsp;&nbsp;
+    <img height="60" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png">&nbsp;&nbsp; 
     <img height="60" src="https://miro.medium.com/max/2800/0*U2DmhXYumRyXH6X1.png">&nbsp;&nbsp;
-    <img height="60" src="https://n7.nextpng.com/sticker-png/925/447/sticker-png-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo-web-application.png">&nbsp;&nbsp;
+    <img height="60" src="https://icon-library.com/images/node-js-icon/node-js-icon-8.jpg">&nbsp;&nbsp;
+    <img height="60" src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png">&nbsp;&nbsp;
     <img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png">&nbsp;&nbsp;
 </p>
 
