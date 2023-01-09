@@ -17,7 +17,7 @@ When I am not coding, I love listening music, watching movies and plyaing chess.
 • 💬 Let's chat mailto:shubhamsharma585@gmail.com
     </td>
        <td>
- <img src="https://media.tenor.com/xYMLEZlJCXcAAAAj/trophy-uno.gif" alt="example-gif" width="300" height="200">
+ <img src="https://media.tenor.com/ZoZqWaSnN5UAAAAi/diwali-sparkles-stars.gif" alt="example-gif" width="300" height="200">
       
    
   </tr>
