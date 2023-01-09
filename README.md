@@ -14,9 +14,26 @@ When I am not coding, I love listening music, watching movies and plyaing chess.
 - 🏳️‍🌈 <b>Full Stack Development</b> certified from Masai School, Banglore. 
 - 💬 Let's [chat](mailto:shubhamsharma585@gmail.com)!
 
-<div>
-    <img src="https://media.giphy.com/media/xUPGcKwZ7YGAPFCrLC/giphy.gif" alt="example-gif" width="300" height="200">
-</div>  
+
+<table>
+  <tr>
+    <td>
+- 🎖️ <b>GATE</b> Qualified. 
+- 😄 A NITian from NIT, Warangal. 
+- 💻 Worked in<b>T.I.M.E, Banglore</b>. 
+- 🏳️‍🌈 <b>Full Stack Development</b> certified from Masai School, Banglore. 
+- 💬 Let's [chat](mailto:shubhamsharma585@gmail.com)!
+    </td>
+       <td>
+ <img src="https://media.giphy.com/media/xUPGcKwZ7YGAPFCrLC/giphy.gif" alt="example-gif" width="300" height="200">
+      
+   
+  </tr>
+ </table>
+ 
+ 
+ 
+ 
 
 ## Languages & Tech
 
