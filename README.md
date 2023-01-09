@@ -1,8 +1,7 @@
 ### Hi there :wave:, 
 
-I am Shubham Sharma and i am a technology enthusiast, competent, well-focused fullstack developer👨‍💻. I am passionate about building fully functional web applications.
+I am Shubham Sharma and as a technology enthusiast and highly competent fullstack developer, I am deeply passionate about building fully functional web applications. My extensive skills in technologies such as Javascript, Typescript, ReactJS, React Query, Redux, React Router, Node, Mongodb, MySQL, Express, HTML and CSS, coupled with my strong foundation in data structures and algorithms, allow me to excel in the development of high-quality web applications.
 
-I am skilled in Javascript, Typescript, ReactJS, React Query, Redux, React Router, Node, Mongodb, MySQL, Express, HTML and CSS. I am good in data structure and algorithms.
 
 When I am not coding, I love listening music, watching movies and plyaing chess.
 
