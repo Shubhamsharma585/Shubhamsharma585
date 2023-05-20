@@ -13,7 +13,7 @@ When I am not coding, I love listening music, watching movies and plyaing chess.
 • 🎖️ <b>GATE</b> Qualified. <br>
 • 😄 A NITian from NIT, Warangal. <br>
 • 💻 Worked in<b>T.I.M.E, Banglore</b>. <br>
-• 🏳️‍🌈 <b>Full Stack Development</b> certified from Masai School, Banglore. <br>
+• 🏳️‍🌈 <b>Full Stack Development</b> certified, Banglore. <br>
 • 💬 Let's chat mailto:shubhamsharma585@gmail.com
     </td>
        <td>
